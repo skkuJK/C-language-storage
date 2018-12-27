@@ -18,6 +18,7 @@ Hi! Everyone!
 * The server performs tasks requiring high processing such as face detection, face recognition, face learning, and image storage.
 * The Web provides a simple interface for administrators to do various tasks such as database, user data management, and so on.
 * **jk-face-recognition** can also automatically recognize celebrities using the Clova Face Recognition API and the Naver News API.
+* By touching the smartphone screen, the user can not display the information on the smartphone screen. Once you touch the smartphone screen again, the information is displayed on the smartphone screen.
 
 ## Install
 
