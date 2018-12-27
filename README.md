@@ -1,4 +1,5 @@
-# jk-face-recognition ![logo](https://user-images.githubusercontent.com/46180332/50475050-a2dd3b80-0a06-11e9-9d58-5b83db661284.png)
+# ![logo](https://user-images.githubusercontent.com/46180332/50475050-a2dd3b80-0a06-11e9-9d58-5b83db661284.png)
+# jk-face-recognition 
 
 Real-time Face Recognition using Smartphone
 
