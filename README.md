@@ -49,6 +49,8 @@ Hi! Everyone!
 ##### 3. Face learning is performed when face detection is not performed more than 30 times.
 
 ## Contact
+#### rhantls2279@naver.com
+
 ## Used open source
 
 
