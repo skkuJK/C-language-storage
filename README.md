@@ -17,9 +17,10 @@ This open source is aimed at face recognition in real time using smart phone was
 * The platform can also automatically recognize celebrities using the Clova Face Recognition API and the Naver News API.
 
 ## Install
+There are requirements for using face recognition open source used in this platform([here](https://github.com/justadudewhohacks/face-recognition.js)).
 
 ## How to use
 ## Contact
-## Reference
+## Used open source
 
 
