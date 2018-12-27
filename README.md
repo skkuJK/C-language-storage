@@ -34,12 +34,14 @@ Hi! Everyone!
 
 ### User Perspective
 
-#### 1. The user takes people through a smartphone camera.
-#### 2. The image taken by the smartphone camera is transmitted to the server.
-#### 3. The server detects and recognizes the face in the image, and transmits the information of the corresponding person to the smartphone.
-#### 4. The smartphone displays the information of the person provided to the server to the user.
+##### 1. The user takes people through a smartphone camera.
+##### 2. The image taken by the smartphone camera is transmitted to the server.
+##### 3. The server detects and recognizes the face in the image, and transmits the information of the corresponding person to the smartphone.
+##### 4. The smartphone displays the information of the person provided to the server to the user.
 
 ### Administrator Perspective
+
+##### 1.
 
 ## Contact
 ## Used open source
