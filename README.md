@@ -17,8 +17,17 @@ Hi! Everyone!
 * **jk-face-recognition** can also automatically recognize celebrities using the Clova Face Recognition API and the Naver News API.
 
 ## Install
-#### For the face recognition
+#### face-recognition
 [here](https://github.com/justadudewhohacks/face-recognition.js)
+
+#### mysql
+[here](https://github.com/mysqljs/mysql)
+
+#### request
+[here](https://github.com/request/request)
+
+#### websocket
+[here](https://github.com/theturtle32/WebSocket-Node)
 
 ## How to use
 ## Contact
