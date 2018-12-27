@@ -5,7 +5,8 @@ Real-time Face Recognition using Smartphone
 * [Install](#install)
 * [How to use](#how-to-use)
 * [Contact](#contact)
-* [Reference](#reference)
+* [Used open source](#used-open-source)
+* [License](#license)
 
 ## Introduction
 Hi! Everyone!
@@ -52,5 +53,7 @@ Hi! Everyone!
 #### rhantls2279@naver.com
 
 ## Used open source
+
+## License
 
 
