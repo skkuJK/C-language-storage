@@ -22,17 +22,13 @@ Hi! Everyone!
 
 ## Install
 
-#### face-recognition
-[here](https://github.com/justadudewhohacks/face-recognition.js)
+#### [face-recognition](https://github.com/justadudewhohacks/face-recognition.js)
 
-#### mysql
-[here](https://github.com/mysqljs/mysql)
+#### mysql(https://github.com/mysqljs/mysql)
 
-#### request
-[here](https://github.com/request/request)
+#### request(https://github.com/request/request)
 
-#### websocket
-[here](https://github.com/theturtle32/WebSocket-Node)
+#### websocket(https://github.com/theturtle32/WebSocket-Node)
 
 ## How to use
 
