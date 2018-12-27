@@ -54,6 +54,18 @@ Hi! Everyone!
 
 ## Used open source
 
-## License
+#### face-recognition
+[here](https://github.com/justadudewhohacks/face-recognition.js)
 
+#### mysql
+[here](https://github.com/mysqljs/mysql)
+
+#### request
+[here](https://github.com/request/request)
+
+#### websocket
+[here](https://github.com/theturtle32/WebSocket-Node)
+
+## License
+Copyright(c)2018 Jongkwon Jang. All rights reserved.
 
