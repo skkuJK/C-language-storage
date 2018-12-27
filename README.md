@@ -24,11 +24,11 @@ Hi! Everyone!
 
 #### [face-recognition](https://github.com/justadudewhohacks/face-recognition.js)
 
-#### mysql(https://github.com/mysqljs/mysql)
+#### [mysql](https://github.com/mysqljs/mysql)
 
-#### request(https://github.com/request/request)
+#### [request](https://github.com/request/request)
 
-#### websocket(https://github.com/theturtle32/WebSocket-Node)
+#### [websocket](https://github.com/theturtle32/WebSocket-Node)
 
 ## How to use
 
@@ -53,17 +53,13 @@ Hi! Everyone!
 
 ## Used open source
 
-#### face-recognition
-[here](https://github.com/justadudewhohacks/face-recognition.js)
+#### [face-recognition](https://github.com/justadudewhohacks/face-recognition.js)
 
-#### mysql
-[here](https://github.com/mysqljs/mysql)
+#### [mysql](https://github.com/mysqljs/mysql)
 
-#### request
-[here](https://github.com/request/request)
+#### [request](https://github.com/request/request)
 
-#### websocket
-[here](https://github.com/theturtle32/WebSocket-Node)
+#### [websocket](https://github.com/theturtle32/WebSocket-Node)
 
 ## License
 Copyright(c)2018 Jongkwon Jang. All rights reserved.
