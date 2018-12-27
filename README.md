@@ -11,6 +11,8 @@ Real-time Face Recognition using Smartphone
 Hi! Everyone!
 This open source is aimed at face recognition in real time using smart phone. Administrators can manage data through the Web.
 
+* The smartphone displays the face of the people in the camera to the user through a rectangle and provides the information of the person.
+
 ## Install
 ## How to use
 ## Contact
