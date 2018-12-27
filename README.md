@@ -33,18 +33,18 @@ Hi! Everyone!
 ## How to use
 
 ### User Perspective
-
 ##### 1. The user takes people through a smartphone camera.
 ##### 2. The image taken by the smartphone camera is transmitted to the server.
 ##### 3. The server detects and recognizes the face in the image, and transmits the information of the corresponding person to the smartphone.
 ##### 4. The smartphone displays the information of the person provided to the server to the user.
 
 ### Administrator Perspective
+##### 1. The administrator can insert information about a new person on a web page and update the information of the existing person.
+##### 2. The web server sends newly added or updated information to the server.
+##### 3. The server processes the information provided by the web server and sends the processing result to the web server.
 
 ### Precautions
-To use **jk-face-recognition**, you have to run it in the order of server, web homepage, smart phone.
-
-##### 1. 
+To use **jk-face-recognition**, you have to run it in the order of server, web server, smart phone.
 
 ## Contact
 ## Used open source
