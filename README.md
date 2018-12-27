@@ -39,6 +39,8 @@ Hi! Everyone!
 #### 3. The server detects and recognizes the face in the image, and transmits the information of the corresponding person to the smartphone.
 #### 4. The smartphone displays the information of the person provided to the server to the user.
 
+### Administrator Perspective
+
 ## Contact
 ## Used open source
 
