@@ -32,7 +32,7 @@ Hi! Everyone!
 
 ## How to use
 
-###User Perspective
+### User Perspective
 
 #### 1. The user takes people through a smartphone camera.
 #### 2. The image taken by the smartphone camera is transmitted to the server.
