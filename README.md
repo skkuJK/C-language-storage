@@ -41,7 +41,10 @@ Hi! Everyone!
 
 ### Administrator Perspective
 
-##### 1.
+### Precautions
+To use **jk-face-recognition**, you have to run it in the order of server, web homepage, smart phone.
+
+##### 1. 
 
 ## Contact
 ## Used open source
