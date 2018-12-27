@@ -44,7 +44,9 @@ Hi! Everyone!
 ##### 3. The server processes the information provided by the web server and sends the processing result to the web server.
 
 ### Precautions
-To use **jk-face-recognition**, you have to run it in the order of server, web server, smart phone.
+##### 1. To use **jk-face-recognition**, you have to run it in the order of server, web server, smart phone.
+##### 2. Celebrity recognition is performed when the face recognition is not 5 times.
+##### 3. Face learning is performed when face detection is not performed more than 30 times.
 
 ## Contact
 ## Used open source
