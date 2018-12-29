@@ -18,7 +18,8 @@ Hi! Everyone!
 * The server performs tasks requiring high processing such as face detection, face recognition, face learning, and image storage.
 * The Web provides a simple interface for administrators to do various tasks such as database, user data management, and so on.
 * **jk-face-recognition** can also automatically recognize celebrities using the Clova Face Recognition API and the Naver News API.
-* In web
+
+In web
 ![-](https://user-images.githubusercontent.com/46180332/50533598-1f3f5e00-0b70-11e9-9a64-cd5dd3962c83.gif)
 
 ** In smartphone
