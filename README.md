@@ -21,10 +21,10 @@ Hi! Everyone!
 
 * By touching the smartphone screen, the user can not display the information on the smartphone screen. Once you touch the smartphone screen again, the information is displayed on the smartphone screen.
 
-#### Apply Naver API on the Web
+#### The used case of Naver API on the Web
 ![-](https://user-images.githubusercontent.com/46180332/50533598-1f3f5e00-0b70-11e9-9a64-cd5dd3962c83.gif)
 
-#### Apply Naver API on the Smartphone
+#### The used case of Naver API on the Smartphone
 
 ## Install
 
