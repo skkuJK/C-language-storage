@@ -24,6 +24,8 @@ Hi! Everyone!
 #### Apply Naver API on the Web
 ![-](https://user-images.githubusercontent.com/46180332/50533598-1f3f5e00-0b70-11e9-9a64-cd5dd3962c83.gif)
 
+#### Apply Naver API on the Smartphone
+
 ## Install
 
 #### [face-recognition](https://github.com/justadudewhohacks/face-recognition.js)
